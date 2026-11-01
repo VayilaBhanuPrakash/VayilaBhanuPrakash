@@ -1,46 +1,167 @@
+# 👋 Hi, I'm Bhanu Prakash Vayila
 
-# Hi, I'm Bhanu Prakash 👋
+### Aspiring Software Development Engineer (SDE)
 
-### Python Developer | Django Developer | Problem Solver
 
-I'm a B.Tech graduate in Electronics and Communication Engineering, passionate about software development and problem-solving.
 
-- 🔭 Working on Python and Django projects
-- 🌱 Learning Data Structures and Algorithms
-- 💻 Solved 400+ problems on LeetCode
-- 🎯 Interested in Python Developer and Software Engineer roles
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/vayila-bhanu-prakash-6a400b332/)
+I'm a 2026 B.Tech graduate in Electronics and Communication Engineering, passionate about software development, backend engineering, and problem-solving.
 
-### 🛠️ Technical Skills
+I enjoy building practical applications, exploring efficient solutions to challenging problems, and continuously improving my engineering skills.
 
-- **Languages:** Python, SQL
-- **Backend:** Django, Django REST Framework
-- **Database:** MySQL
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
+- 🎯 Aspiring Software Development Engineer.
+- 💻 Interested in Python and Backend Development.
+- 🧠 Solved **500+ problems on LeetCode**.
+- 🚀 Built applications using Python, Django, and MySQL.
+- 📚 Currently strengthening my DSA, System Design, and backend development skills.
+- 🌱 Believe in continuous learning and consistent improvement.
 
-### 🚀 Featured Projects
+---
 
-**1. Trainer Portal**
-- Developed using Python and Django.
-- Trainer authentication and student management.
-- CRUD operations with Django ORM.
-- MySQL database integration.
+## 🛠️ Technical Skills
 
-**2. In-Vehicle Audio Event Detection**
-- Audio event classification for vehicle safety.
-- WavLM feature extraction and machine learning classifiers.
-- Python-based implementation.
+**Programming Languages**\
 
-### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+**Backend Development**
+
+
+\
+
+
+**Frontend Development**
+
+\
+
+
+**Database**
+
+
+
+**Tools & Technologies**
+
+
+\
+
+
+**Core Concepts**
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Trainer Portal
+
+**Python | Django | MySQL | Django ORM**
+
+A web-based application designed to help trainers manage student information efficiently.
+
+- Trainer registration and authentication.
+- Student creation, viewing, updating, and deletion.
+- Data validation to prevent duplicate student IDs and email addresses.
+- Trainer-specific student record management.
+- Database integration using Django ORM.
+
+### 2. Study Buddy – Collaborative Learning Platform
+
+**Python | Django | MySQL | HTML | CSS | Django ORM**
+
+A collaborative learning platform that enables students to create and join topic-based study rooms, exchange knowledge, and communicate through discussions.
+
+- User registration, login, and logout.
+- Create, update, view, and delete study rooms.
+- Search study rooms by name and topic.
+- Join and leave study rooms.
+- Member-based messaging and discussions.
+- Room creator-based access control.
+- MySQL integration using Django ORM.
+
+### 3. In-Vehicle Audio Event Detection
+
+**Python | WavLM | Machine Learning**
+
+A machine learning-based project focused on detecting vehicle audio events to enhance driver alertness and safety.
+
+- Audio feature extraction using pretrained WavLM.
+- Vehicle audio event classification.
+- Implementation of multiple machine learning classifiers.
+- Performance comparison using classification metrics.
+- Proposed Greedy Forest Classifier.
+
+---
+
+## 🧩 Problem Solving & Coding Achievements
+
+I actively practice Data Structures and Algorithms to improve my problem-solving and programming skills.
+
+### LeetCode Achievements
+
+
+
+- 🏆 500+ problems solved.
+- 🥉 50 Days Badge.
+- 🥈 100 Days Badge.
+- 🥇 200 Days Badge.
+- 💾 50 SQL Problems Badge.
+
+
+
+---
+
+## 📊 GitHub Statistics
+
+
+
+
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-### 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/vayila-bhanu-prakash-6a400b332/
-- LeetCode: https://leetcode.com/u/VayilaBhanu_Prakash123/
+### 📈 Contribution Activity
+
+
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Django and Django REST Framework
+- Data Structures and Algorithms
+- System Design
+- SQL and Database Management
+
+**Future Learning Interests:** Generative AI, RAG, and Large Language Models (LLMs).
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics and Communication Engineering (ECE)**
+
+Geethanjali Institute of Science and Technology
+
+Graduation: 2026
+
+---
+
+## 🤝 Connect With Me
+
+I'm always interested in connecting with developers, sharing knowledge, exploring opportunities, and learning new technologies.
+
+
+\
+
+
+---
+
+### 💡 Developer Mindset
+
+**"Consistency beats intensity. Keep learning, keep building."** 🚀
+
+\</div>
